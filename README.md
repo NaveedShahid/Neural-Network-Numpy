@@ -1,4 +1,4 @@
-# Implementation of basic Neural Network
+# Implementation of basic Neural Network in Numpy
 The implementation is similar to Keras implementation of Neural Network. Layers include Batch Norm, Convolutional 2D, Maxpool 2D, etc.
 
 __Notes:__
